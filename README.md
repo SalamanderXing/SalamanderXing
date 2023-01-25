@@ -1,5 +1,13 @@
 ### Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salamanderxing&theme=dracula)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salamanderxing&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salamanderxing&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salamanderxing&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salamanderxing&theme=dracula&utcOffset=8)
 <!--
 **SalamanderXing/SalamanderXing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
