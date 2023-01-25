@@ -1,23 +1,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salamanderxing&theme=dracula)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salamanderxing&theme=dracula)
-    </td>
-    <td valign="top" width="50%">
-      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salamanderxing&theme=dracula)
-    </td>
-  </tr>
-  <tr>
-  <td>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salamanderxing&theme=dracula)
-  </td>
-  <td>
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salamanderxing&theme=dracula&utcOffset=8)
-  </td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salamanderxing&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salamanderxing&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=salamanderxing&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salamanderxing&theme=dracula&utcOffset=8)
 
 <!--
 
